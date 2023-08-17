@@ -1,4 +1,4 @@
-![My Stats](https://github-readme-stats.vercel.app/api?username=darkceius&show_icons=true&theme=github_dark_dimmed )                          
+![My Stats](https://github-readme-stats.vercel.app/api?username=darkceius&show_icons=true&theme=github_dark_dimmed )               
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkceius&layout=compact&theme=github_dark_dimmed )
 <!--
 **darkceius/darkceius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
